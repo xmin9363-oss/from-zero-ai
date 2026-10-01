@@ -4,6 +4,14 @@
 
 一个零依赖、纯静态的单页学习平台。双击 `index.html` 即可离线使用，也可以部署到任意静态托管（GitHub Pages / Vercel / Netlify / 自己的服务器）。
 
+## 在线使用
+
+- **国内主站（推荐，速度快）**：<https://learn.zeroonesi.com>
+- **海外站（GitHub Pages）**：<https://xmin9363-oss.github.io/from-zero-ai/>
+- **离线**：下载 zip 解压后双击 `index.html`，无需联网
+
+> 两个地址内容完全一致，进度各自独立（存于浏览器 localStorage）。数据 100% 在你自己浏览器里，不上传任何服务器。
+
 ---
 
 ## 它能做什么
