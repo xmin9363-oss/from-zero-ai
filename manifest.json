@@ -1,0 +1,16 @@
+{
+  "name": "从零学 AI · 全中文 AI 工程学习平台",
+  "short_name": "从零学AI",
+  "description": "590 节全中文 AI 工程课：课本、练习、进度追踪、错题本、备考地图，全部免费，数据存本地，离线可学。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f3f0",
+  "theme_color": "#f4f3f0",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
