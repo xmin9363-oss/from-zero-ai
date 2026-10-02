@@ -2,7 +2,7 @@ const VERSION = 'v1.0.1';
 const CACHE = `zeroone-${VERSION}`;
 
 // 安装时只装壳（首页+课程索引），激活后在后台补齐全部课程数据——离线学习全量可用
-const PRECACHE = ['./', './manifest.webmanifest', './data/manifest.js'];
+const PRECACHE = ['./', './manifest.json', './data/manifest.js'];
 const DATA_FILES = [
   './data/p00.js', './data/p01.js', './data/p02.js', './data/p03.js', './data/p04.js',
   './data/p05.js', './data/p06.js', './data/p07.js', './data/p08.js', './data/p09.js',
