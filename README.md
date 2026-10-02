@@ -4,6 +4,10 @@
 
 一个零依赖、纯静态的单页学习平台。双击 `index.html` 即可离线使用，也可以部署到任意静态托管（GitHub Pages / Vercel / Netlify / 自己的服务器）。
 
+## 平台演示
+
+![30 秒看完全部功能](assets/demo.gif)
+
 ## 在线使用
 
 - **国内主站（推荐，速度快）**：<https://learn.zeroonesi.com>
